@@ -1,0 +1,14 @@
+{
+  //JS Typing without TS
+  // подсказки типов ⬇️
+  "javascript.inlayHints.enumMemberValues.enabled": false,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": false,
+  "javascript.inlayHints.parameterNames.enabled": "literals",
+  "javascript.inlayHints.parameterTypes.enabled": false,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": false,
+  "javascript.inlayHints.variableTypes.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  // ошибки типизации ⬇️
+  "js/ts.implicitProjectConfig.checkJs": false,
+  "javascript.validate.enable": false // => required
+}
